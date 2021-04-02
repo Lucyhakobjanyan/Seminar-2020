@@ -24,4 +24,4 @@ Creative Commons Attribution 4.0
 
 7. Инструменты, форматы данных
 
-Использованные форматы данных – CSV, JSON, XML, XLSX
+Использованные форматы данных – JSON, XML
